@@ -1,0 +1,26 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+main {
+  gap: 20px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+  flex-direction: column;
+}
+
+p {
+  font-size: 32px;
+  font-weight: 600;
+}
+
+.timer {
+  font-size: 32px;
+  font-weight: 600;
+  color: brown;
+}
