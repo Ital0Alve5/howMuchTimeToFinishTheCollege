@@ -1,4 +1,4 @@
-const endDate = new Date("2026-12-19");
+const endDate = new Date("2025-12-19");
 
 const timer = document.querySelector(".timer");
 
